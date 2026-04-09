@@ -1,0 +1,11 @@
+{
+  "name": "ghost-architect",
+  "description": "Codebase triage for Adobe Commerce and ecommerce platforms. Scans your project, categorizes risk by pattern, and gives your team a prioritized map of where to start.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ernst Wisner",
+    "url": "https://ghostarchitect.dev"
+  },
+  "homepage": "https://ghostarchitect.dev",
+  "repository": "https://github.com/EJWisner/ghost-architect"
+}
