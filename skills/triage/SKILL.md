@@ -13,7 +13,7 @@ Ghost Architect scans the current project directory and produces a prioritized r
 2. Run the following command in the Bash tool:
 
 ```bash
-npx ghost-architect-open scan --output md
+npx ghost-architect-open --scan
 ```
 
 3. Present the findings to the user organized by severity
